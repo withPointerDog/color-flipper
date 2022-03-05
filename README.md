@@ -1,2 +1,2 @@
-# color-flipper
+# app Color-flipper
 Vanila JS
